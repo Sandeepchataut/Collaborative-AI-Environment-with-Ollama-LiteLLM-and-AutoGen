@@ -6,6 +6,8 @@ LiteLLM Proxy: Middleware for standardized API calls to various language model s
 AutoGen Framework: Utilizes a multi-agent conversation framework to create diverse AI agents, each performing unique roles within a simulated group chat environment.
 # Installation
 curl https://ollama.ai/install.sh | sh
+
 pip install litellm[proxy]
+
 pip install pyautogen
 
